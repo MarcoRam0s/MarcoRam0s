@@ -18,4 +18,4 @@ Atuo como um profissional full stack, possuindo vasto conhecimento em múltiplos
 ##
 
 <img src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg" alt="Github Snake Animation" style="max-width: 100%; width: 100%;">
-![snake gif](https://github.com/MarcoRam0s/MarcoRam0s/blob/output/github-contribution-grid-snake.svg)
+<!--![snake gif](https://github.com/MarcoRam0s/MarcoRam0s/blob/output/github-contribution-grid-snake.svg)
