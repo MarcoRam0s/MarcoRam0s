@@ -1,5 +1,7 @@
 ## Olá, sou Marco, porém, fique à vontade para me chamar de Mark. 
 
+Atuo como um profissional full stack, possuindo vasto conhecimento em múltiplos domínios da tecnologia da informação. Minha paixão reside em descobrir soluções inovadoras e eficazes para desafios complexos, e estou constantemente em busca de novas oportunidades para aprender e aprimorar minhas habilidades. Minha afinidade com a tecnologia surgiu desde cedo e floresceu à medida que adentrei o mundo da programação.
+
 
 
 
