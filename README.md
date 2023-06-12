@@ -1,7 +1,6 @@
-## Olá, sou Marco, porém, fique à vontade para me chamar de Mark. 
+## Olá, meu nome é Marco, mas fique à vontade para me chamar de Mark. 
 
-Atuo como um profissional full stack, possuindo vasto conhecimento em múltiplos domínios da tecnologia da informação. Minha paixão reside em descobrir soluções inovadoras e eficazes para desafios complexos, e estou constantemente em busca de novas oportunidades para aprender e aprimorar minhas habilidades. Minha afinidade com a tecnologia surgiu desde cedo e floresceu à medida que adentrei o mundo da programação.
-
+Sou um profissional full stack e tenho amplo conhecimento em diversos domínios da tecnologia da informação. Minha verdadeira paixão é encontrar soluções inovadoras e eficientes para desafios complexos. Estou sempre em busca de novas oportunidades para aprender e aprimorar minhas habilidades. Minha afinidade com a tecnologia começou cedo e se desenvolveu ainda mais quando entrei no mundo da programação.
 
 <div style="display: inline_block"><br>
   <img align="center" alt="mark-php" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" />
